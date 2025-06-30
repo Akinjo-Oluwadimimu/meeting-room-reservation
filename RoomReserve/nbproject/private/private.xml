@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/src/java/com/roomreserve/dao/PasswordResetDAO.java</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/index-content.jsp</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/src/java/com/roomreserve/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/js/manager-dashboard.js</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/forgot-password.jsp</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/forgot_password.jsp</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/layout.jsp</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/login.jsp</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/newjsp.jsp</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/contents/register-content.jsp</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/src/java/com/roomreserve/filters/AuthFilter.java</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/src/java/com/roomreserve/util/EmailUtil.java</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/src/java/com/roomreserve/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/manager/contents/dashboard-content.jsp</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/js/register.js</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/js/reservation.js</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/src/java/com/roomreserve/util/DBUtil.java</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/src/java/com/roomreserve/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/src/java/com/roomreserve/servlets/PasswordResetHandlerServlet.java</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/images/icon/site.webmanifest</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/src/java/com/roomreserve/servlets/PasswordResetServlet.java</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/web/register.jsp</file>
+            <file>file:/C:/Users/Akinjo/OneDrive/Documents/NetBeansProjectsabora/RoomReserve/src/java/com/roomreserve/servlets/CheckUserExistsServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

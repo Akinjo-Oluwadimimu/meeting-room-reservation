@@ -1,0 +1,4 @@
+<jsp:include page="../layout.jsp">
+    <jsp:param name="title" value="Reservation Details" />
+    <jsp:param name="content" value="admin/contents/reservation-details-content.jsp" />
+</jsp:include>
